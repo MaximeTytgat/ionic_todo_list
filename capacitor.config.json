@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "todo_list_app",
+  "appName": "todoApp",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
